@@ -1,4 +1,4 @@
-# Click-Counter
+# Click Counter
 
 Simple demonstration app to count all clicks of the mouse on a Mac.
 
