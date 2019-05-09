@@ -19,3 +19,7 @@ Known issues:
 Project created with Xcode 10.2. 
 
 Deployment target is macOS 10.9.
+
+## License
+
+Released under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
