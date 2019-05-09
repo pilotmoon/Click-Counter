@@ -22,8 +22,8 @@ Deployment target is macOS 10.9.
 
 ## Binaries
 
-For pre-built binsry see [releases](https://github.com/invariant/Click-Counter/releases).
+For pre-built binary see [releases](https://github.com/invariant/Click-Counter/releases).
 
 ## License
 
-Released under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Licensed under [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
